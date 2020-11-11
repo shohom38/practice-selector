@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.what-is-my-select + p {
+    background-color: yellow;
+}
+
+.element1-element4 p ~ ul {
+    background-color: indigo;
+    color: white;
+}
